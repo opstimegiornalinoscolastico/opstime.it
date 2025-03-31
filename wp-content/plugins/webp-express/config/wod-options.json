@@ -17,27 +17,27 @@
             {
                 "id": "uploads",
                 "rel-path": "wp-content/uploads",
-                "url": "https://opstime.it/wp-content/uploads"
+                "url": "https://opstimegiornalinoscolastico.github.io/wp-content/uploads"
             },
             {
                 "id": "themes",
                 "rel-path": "wp-content/themes",
-                "url": "https://opstime.it/wp-content/themes"
+                "url": "https://opstimegiornalinoscolastico.github.io/wp-content/themes"
             },
             {
                 "id": "plugins",
                 "rel-path": "wp-content/plugins",
-                "url": "https://opstime.it/wp-content/plugins"
+                "url": "https://opstimegiornalinoscolastico.github.io/wp-content/plugins"
             },
             {
                 "id": "wp-content",
                 "rel-path": "wp-content",
-                "url": "https://opstime.it/wp-content"
+                "url": "https://opstimegiornalinoscolastico.github.io/wp-content"
             },
             {
                 "id": "index",
                 "rel-path": ".",
-                "url": "https://opstime.it"
+                "url": "https://opstimegiornalinoscolastico.github.io"
             }
         ],
         "success-response": "converted"
